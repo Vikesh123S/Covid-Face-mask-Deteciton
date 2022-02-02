@@ -35,3 +35,4 @@ Finally, the CNN model along with the cascade classifier is trained for 30 epoch
 
 ### Demo - 
 ![](mask.png)
+![](nomask.png)
